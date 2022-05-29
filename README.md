@@ -1,5 +1,5 @@
-# Covid Counts project
-A simple Project to showcase some counts for the Covid Vaccinations and Deaths
+# New York Airbnb project
+A simple Project to showcase some visulizations in NEw York for renting out airbnb apartments/ properties.
 
 
 To Follow along the Visualization
